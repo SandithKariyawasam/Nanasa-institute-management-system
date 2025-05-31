@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|c:\\users\\sandi\\onedrive\\desktop\\nanasa_management_system\\college management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\college management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\college management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\college management system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\college management system\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\college management system\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\college management system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\college management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\college management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\college management system\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73165C94-04E5-42DA-A665-D3925B7195CA}|College Management System\\College Management System.csproj|solutionrelative:college management system\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Teacher.cs",
+              "RelativeDocumentMoniker": "College Management System\\Teacher.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Teacher.cs [Design]",
+              "RelativeToolTip": "College Management System\\Teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:59:37.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Student.cs",
+              "RelativeDocumentMoniker": "College Management System\\Student.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\College Management System\\College Management System\\Student.cs [Design]",
+              "RelativeToolTip": "..\\College Management System\\College Management System\\Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:59:34.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\MainForm.cs",
+              "RelativeDocumentMoniker": "College Management System\\MainForm.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\College Management System\\College Management System\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\College Management System\\College Management System\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:59:32.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Login.cs",
+              "RelativeDocumentMoniker": "College Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Login.cs [Design]",
+              "RelativeToolTip": "College Management System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:59:30.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Load.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Load.cs",
+              "RelativeDocumentMoniker": "College Management System\\Load.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\College Management System\\College Management System\\Load.cs [Design]",
+              "RelativeToolTip": "..\\College Management System\\College Management System\\Load.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:59:29.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fees.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Fees.cs",
+              "RelativeDocumentMoniker": "College Management System\\Fees.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\College Management System\\College Management System\\Fees.cs [Design]",
+              "RelativeToolTip": "..\\College Management System\\College Management System\\Fees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:59:27.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Department.cs",
+              "RelativeDocumentMoniker": "College Management System\\Department.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\College Management System\\College Management System\\Department.cs [Design]",
+              "RelativeToolTip": "..\\College Management System\\College Management System\\Department.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:59:24.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Student.cs",
+              "RelativeDocumentMoniker": "College Management System\\Student.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Student.cs",
+              "RelativeToolTip": "College Management System\\Student.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAowOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:51:38.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Teacher.cs",
+              "RelativeDocumentMoniker": "College Management System\\Teacher.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Teacher.cs",
+              "RelativeToolTip": "College Management System\\Teacher.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAIwPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:51:25.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Fees.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Fees.cs",
+              "RelativeDocumentMoniker": "College Management System\\Fees.cs",
+              "ToolTip": "C:\\Users\\sandi\\OneDrive\\Desktop\\Nanasa_Management_System\\College Management System\\Fees.cs",
+              "RelativeToolTip": "College Management System\\Fees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:28:12.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College Management System.csproj.AssemblyReference.cache
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College Management System.csproj.SuggestedBindingRedirects.cache
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College_Management_System.Department.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College_Management_System.Fees.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College_Management_System.Load.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College Management System.csproj.GenerateResource.cache
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College Management System.csproj.CoreCompileInputs.cache
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\bin\Debug\College Management System.exe.config
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\bin\Debug\College Management System.exe
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\bin\Debug\College Management System.pdb
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College_Management_System.Login.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College_Management_System.MainForm.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College_Management_System.Student.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College_Management_System.Teacher.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College Management System.exe
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\College Management System\College Management System\College Management System\obj\Debug\College Management System.pdb
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\bin\Debug\College Management System.exe.config
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\bin\Debug\College Management System.exe
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\bin\Debug\College Management System.pdb
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College Management System.csproj.AssemblyReference.cache
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College Management System.csproj.SuggestedBindingRedirects.cache
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College_Management_System.Department.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College_Management_System.Fees.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College_Management_System.Load.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College_Management_System.Login.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College_Management_System.MainForm.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College_Management_System.Student.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College_Management_System.Teacher.resources
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College Management System.csproj.GenerateResource.cache
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College Management System.csproj.CoreCompileInputs.cache
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College Management System.exe
+D:\Users\Bran Livinston\Documents\Visual Studio 2022\Project\College Management System\College Management System\obj\Debug\College Management System.pdb
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\bin\Debug\College Management System.exe
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\bin\Debug\College Management System.pdb
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College Management System.csproj.AssemblyReference.cache
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College_Management_System.Department.resources
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College_Management_System.Fees.resources
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College_Management_System.Load.resources
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College_Management_System.Login.resources
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College_Management_System.MainForm.resources
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College_Management_System.Student.resources
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College_Management_System.Teacher.resources
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College Management System.csproj.GenerateResource.cache
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College Management System.csproj.CoreCompileInputs.cache
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College Management System.exe
+C:\Users\sandi\OneDrive\Documents\GitHub\College-Management-System\College Management System\College Management System\obj\Debug\College Management System.pdb
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\bin\Debug\College Management System.exe
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\bin\Debug\College Management System.pdb
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College Management System.csproj.AssemblyReference.cache
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College_Management_System.Department.resources
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College_Management_System.Fees.resources
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College_Management_System.Load.resources
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College_Management_System.Login.resources
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College_Management_System.MainForm.resources
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College_Management_System.Student.resources
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College_Management_System.Teacher.resources
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College Management System.csproj.GenerateResource.cache
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College Management System.csproj.CoreCompileInputs.cache
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College Management System.exe
+C:\Users\sandi\OneDrive\Desktop\College Management System\College Management System\obj\Debug\College Management System.pdb
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\bin\Debug\College Management System.exe
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\bin\Debug\College Management System.pdb
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College Management System.csproj.AssemblyReference.cache
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College_Management_System.Department.resources
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College_Management_System.Fees.resources
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College_Management_System.Load.resources
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College_Management_System.Login.resources
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College_Management_System.MainForm.resources
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College_Management_System.Student.resources
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College_Management_System.Teacher.resources
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College Management System.csproj.GenerateResource.cache
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College Management System.csproj.CoreCompileInputs.cache
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College Management System.exe
+C:\Users\sandi\OneDrive\Desktop\Nanasa_Management_System\College Management System\obj\Debug\College Management System.pdb
